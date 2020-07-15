@@ -24,10 +24,10 @@ Las columnas de dataset_covid son:
    
 Las columnas de los datasets de criptomonedas son:
 
-* Date
-* Open
-* High
-* Low
-* Close
-* Volume
-* Market Cap
+* Date : Fecha de la jornada.
+* Open : Valor que obtuvo la criptomoneda al abrir la jornada.
+* High : Valor máximo que obtuvo la criptomoneda al finalizar la jornada.
+* Low  : Valor mínimo que obtuvo la criptomoneda al finalizar la jornada.
+* Close : Valor con el que la moneda cerró la jornada.
+* Volume : Número total de monedas negociadas en un valor durante la jornada.
+* Market Cap : Valor total en dolares de la totalidad de las criptomonedas.
